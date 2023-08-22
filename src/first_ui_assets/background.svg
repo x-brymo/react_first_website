@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="1920px" height="1095px" viewBox="0 0 1920 1095" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient gradientUnits="objectBoundingBox" x1="0.5" y1="1" x2="0.5" y2="0.11141503" id="gradient_1">
+      <stop offset="0%" stop-color="#20232D" />
+      <stop offset="100%" stop-color="#151720" />
+    </linearGradient>
+    <path d="M0 0L0 1095C0 1095 1555.61 917.363 1641.25 908.094C1726.89 898.825 1837.95 898.825 1852.22 706.903L1920 190.599L1920 0L0 0Z" id="path_1" />
+    <clipPath id="clip_1">
+      <use xlink:href="#path_1" clip-rule="evenodd" fill-rule="evenodd" />
+    </clipPath>
+  </defs>
+  <g id="Group-47">
+    <path d="M0 0L0 1095C0 1095 1555.61 917.363 1641.25 908.094C1726.89 898.825 1837.95 898.825 1852.22 706.903L1920 190.599L1920 0L0 0Z" id="Mask" fill="url(#gradient_1)" fill-rule="evenodd" stroke="none" />
+    <g clip-path="url(#clip_1)">
+      <g id="trianglify-(1)" transform="translate(-2 -510)" opacity="0.5">
+        <path d="M1272 870.507L1415 900L1408.54 700L1272 870.507Z" id="Shape" fill="#282C39" fill-rule="evenodd" stroke="#282C39" stroke-width="1.51" />
+        <path d="M1409 699.093L1158 475L1272.43 869L1409 699.093Z" id="Shape" fill="#282C39" fill-rule="evenodd" stroke="#282C39" stroke-width="1.51" />
+        <path d="M1412.42 900L1762 711.06L1406 700L1412.42 900Z" id="Shape" fill="#252934" fill-rule="evenodd" stroke="#252934" stroke-width="1.51" />
+        <path d="M1409 699L1267.81 224L1158 474.822L1409 699Z" id="Shape" fill="#262A37" fill-rule="evenodd" stroke="#262A37" stroke-width="1.51" />
+        <path d="M1279 1522L1587 1332.2L1412.31 901L1279 1522Z" id="Shape" fill="#1F222B" fill-rule="evenodd" stroke="#1F222B" stroke-width="1.51" />
+        <path d="M1156.36 475L908 869L1270 869L1156.36 475Z" id="Shape" fill="#292D3A" fill-rule="evenodd" stroke="#292D3A" stroke-width="1.51" />
+        <path d="M1412 901L1834 849.371L1763.05 712L1412 901Z" id="Shape" fill="#232731" fill-rule="evenodd" stroke="#232731" stroke-width="1.51" />
+        <path d="M1954 321L1744 452.224L1763.26 711L1954 321Z" id="Shape" fill="#1E2029" fill-rule="evenodd" stroke="#1E2029" stroke-width="1.51" />
+        <path d="M1762 711L1742.73 452L1406 699.979L1762 711Z" id="Shape" fill="#222530" fill-rule="evenodd" stroke="#222530" stroke-width="1.51" />
+        <path d="M1156 475L922.642 480.51L908 869L1156 475Z" id="Shape" fill="#272B37" fill-rule="evenodd" stroke="#272B37" stroke-width="1.51" />
+        <path d="M1412 900.479L1789.77 1202L1834 849L1412 900.479Z" id="Shape" fill="#20232C" fill-rule="evenodd" stroke="#20232C" stroke-width="1.51" />
+        <path d="M1281.23 1520L1415 899.462L1272 870L1281.23 1520Z" id="Shape" fill="#242732" fill-rule="evenodd" stroke="#242732" stroke-width="1.51" />
+        <path d="M1746 450.934L1267 224L1407.94 699L1746 450.934Z" id="Shape" fill="#242631" fill-rule="evenodd" stroke="#242631" stroke-width="1.51" />
+        <path d="M1587.17 1330L1790 1201.67L1412 901L1587.17 1330Z" id="Shape" fill="#1F212A" fill-rule="evenodd" stroke="#1F212A" stroke-width="1.51" />
+        <path d="M908 870L1280 1520L1270.81 870L908 870Z" id="Shape" fill="#252934" fill-rule="evenodd" stroke="#252934" stroke-width="1.51" />
+        <path d="M906.927 870L714 1398.47L1279 1520L906.927 870Z" id="Shape" fill="#20232D" fill-rule="evenodd" stroke="#20232D" stroke-width="1.51" />
+        <path d="M585 550L662.28 1039L907 870.475L585 550Z" id="Shape" fill="#272A37" fill-rule="evenodd" stroke="#272A37" stroke-width="1.51" />
+        <path d="M922 481L585 549.972L907.268 870L922 481Z" id="Shape" fill="#252935" fill-rule="evenodd" stroke="#252935" stroke-width="1.51" />
+        <path d="M763.628 262L585 551L922 481.971L763.628 262Z" id="Shape" fill="#242732" fill-rule="evenodd" stroke="#242732" stroke-width="1.51" />
+        <path d="M1790 1202L2137 1066.87L1834.06 849L1790 1202Z" id="Shape" fill="#1F222A" fill-rule="evenodd" stroke="#1F222A" stroke-width="1.51" />
+        <path d="M2120.48 1342L2137 1067L1790 1202.2L2120.48 1342Z" id="Shape" fill="#1F2229" fill-rule="evenodd" stroke="#1F2229" stroke-width="1.51" />
+        <path d="M662 1038.02L713.368 1397L906 870L662 1038.02Z" id="Shape" fill="#22252F" fill-rule="evenodd" stroke="#22252F" stroke-width="1.51" />
+        <path d="M612 1418L715 1397.81L663.036 1039L612 1418Z" id="Shape" fill="#1D2029" fill-rule="evenodd" stroke="#1D2029" stroke-width="1.51" />
+        <path d="M2074.11 1610L2121 1341.02L1790 1201L2074.11 1610Z" id="Shape" fill="#1D2025" fill-rule="evenodd" stroke="#1D2025" stroke-width="1.51" />
+        <path d="M341 833L614.375 1417L665 1037.77L341 833Z" id="Shape" fill="#21242E" fill-rule="evenodd" stroke="#21242E" stroke-width="1.51" />
+        <path d="M80 666.182L339.953 834L587 550L80 666.182Z" id="Shape" fill="#282C38" fill-rule="evenodd" stroke="#282C38" stroke-width="1.51" />
+        <path d="M587.682 550L341 833.638L665 1039L587.682 550Z" id="Shape" fill="#272A37" fill-rule="evenodd" stroke="#272A37" stroke-width="1.51" />
+        <path d="M763 261.544L408 209L584.58 551L763 261.544Z" id="Shape" fill="#222530" fill-rule="evenodd" stroke="#222530" stroke-width="1.51" />
+        <path d="M0 1361L502.649 1550L612 1418.8L0 1361Z" id="Shape" fill="#22252E" fill-rule="evenodd" stroke="#22252E" stroke-width="1.51" />
+        <path d="M612.687 1418.27L503 1550L715 1398L612.687 1418.27Z" id="Shape" fill="#20222B" fill-rule="evenodd" stroke="#20222B" stroke-width="1.51" />
+        <path d="M408.64 209L258 303.949L585 551L408.64 209Z" id="Shape" fill="#242733" fill-rule="evenodd" stroke="#242733" stroke-width="1.51" />
+        <path d="M258.833 304L80 666L587 550.234L258.833 304Z" id="Shape" fill="#272A37" fill-rule="evenodd" stroke="#272A37" stroke-width="1.51" />
+        <path d="M339.081 833L0 1359.15L612 1417L339.081 833Z" id="Shape" fill="#22252F" fill-rule="evenodd" stroke="#22252F" stroke-width="1.51" />
+        <path d="M79.6911 666L0 1359L338 833.054L79.6911 666Z" id="Shape" fill="#2A2D39" fill-rule="evenodd" stroke="#2A2D39" stroke-width="1.51" />
+      </g>
+    </g>
+  </g>
+</svg>

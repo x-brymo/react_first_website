@@ -1,0 +1,1 @@
+export { default as imageNamePhone } from 'first_ui_assets\phone-uii.svg';
